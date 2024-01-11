@@ -1,0 +1,195 @@
+body {
+    width: 1600px;
+height: 920px;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    width: 1600px;
+height: 920px;
+background: linear-gradient(180deg, #ffffff 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.top-menu {
+font-family: Roboto;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+}
+
+.home {
+    width: 45px;
+height: 24px;
+ 
+font-family: Roboto;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+ 
+color: #1b0a42;   
+}
+
+.about {
+    width: 44px;
+height: 24px;
+ 
+font-family: Roboto;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+ 
+color: #1b0a42;
+}
+
+.blog {
+    width: 33px;
+    height: 24px;
+     
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+     
+    color: #1b0a42;
+}
+
+
+.contact {
+    width: 58px;
+height: 24px;
+ 
+font-family: Roboto;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+ 
+color: #1b0a42;
+}
+
+
+.logo {
+    width: 95px;
+height: 41px;
+ 
+font-family: Circular Std;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 1.6;
+letter-spacing: -0.02em;
+text-align: left;
+     
+}
+
+.button{
+    width: 88px;
+height: 28px;
+ 
+font-family: Roboto;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 32px;
+letter-spacing: 0.02em;
+text-align: center;
+ 
+color: #ffffff;
+}
+
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
+
+.hero-content {
+    flex: 1;
+    width: 495px;
+height: 152px;
+}
+
+.hero-content h1 {
+    width: 495px;
+    height: 152px;
+    font-family: Ramaraja;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: 0.02em;
+    text-align: left;
+     
+    color: #1b0941;
+}
+
+.hero-content p {
+    width: 581px;
+height: 96px;
+ 
+font-family: Roboto;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: 0.02em;
+text-align: left;
+ 
+color: #9a9a9a;
+}
+
+
+
+.hero-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.sign-in {
+    width: 51px;
+height: 24px;
+ 
+font-family: Roboto;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+ 
+color: #1b0a42;
+ 
+}
+.sign-up {
+    width: 120px;
+height: 60px;
+ 
+background: #fb569a;
+border-radius: 6px;
+width: 58px;
+height: 24px;
+ 
+font-family: Roboto;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+ 
+color: #ffffff;
+}
